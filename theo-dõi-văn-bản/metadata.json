@@ -1,0 +1,5 @@
+{
+  "name": "THEO DÕI VĂN BẢN",
+  "description": "Một ứng dụng web để theo dõi tiến độ công việc qua các cấp phê duyệt, được thiết kế ưu tiên cho giao diện di động. Dữ liệu được quản lý bởi một người duy nhất và mô phỏng việc lưu trữ trên Google Sheets.",
+  "requestFramePermissions": []
+}
